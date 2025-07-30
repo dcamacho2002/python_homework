@@ -1,0 +1,9 @@
+function: hello | positional parameters: none | keyword parameters: none | return: None
+function: true | positional parameters: (1, 5, 7) | keyword parameters: none | return: <function logger_decorator.<locals>.wrapper at 0x0000029B0FD62840>
+function: kwarg | positional parameters: none | keyword parameters: {'x': 5, 'y': 24} | return: <function logger_decorator at 0x0000029B0F8EC2C0>
+function: hello | positional parameters: none | keyword parameters: none | return: None
+function: true | positional parameters: (1, 5, 7) | keyword parameters: none | return: <function logger_decorator.<locals>.wrapper at 0x0000019757952840>
+function: kwarg | positional parameters: none | keyword parameters: {'x': 5, 'y': 24} | return: <function logger_decorator at 0x0000019757467920>
+function: hello | positional parameters: none | keyword parameters: none | return: None
+function: true | positional parameters: (1, 5, 7) | keyword parameters: none | return: <function logger_decorator.<locals>.wrapper at 0x00000149AA162840>
+function: kwarg | positional parameters: none | keyword parameters: {'x': 5, 'y': 24} | return: <function logger_decorator at 0x00000149A9C77920>
