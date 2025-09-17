@@ -1,0 +1,1 @@
+The hardest challenge I faced was finding certain elements I needed in Task 3. I resolved them by using ctrl + f so I could search for the elements I needed within the web page.
