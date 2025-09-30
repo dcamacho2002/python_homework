@@ -1,0 +1,19 @@
+Which sections of the website are restricted for crawling?
+    - /w/
+    - /api/
+    - /trap/
+    - /wiki/Special:
+    - /wiki/Spezial:
+    - /wiki/Spesial:
+    - /wiki/Special%3A
+    - /wiki/Spezial%3A
+    - /wiki/Spesial%3A
+
+Are there specific rules for certain user agents?
+    Yes, there are specific rules for certain user agents. Here are some examples:
+        - Zealbot: A bot known to copy entire sites is disallowed from crawling.
+        - User-agent *: Has rules that apply to all crawlers by default.
+        - Webreaper: A capture bot that downloads "gazillions" of pages with no benefit is disallowed from crawling.
+
+Reflect on why websites use robots.txt and write 2-3 sentences explaining its purpose and how it promotes ethical scraping. Put these in ethical_scraping.txt in your python_homework directory.
+    Websites use robots.txt to show web crawlers which parts of the website that is allowed to be accessed or not. This allows servers to perform better and prevent bots from exposing any important or sensitive information. 
